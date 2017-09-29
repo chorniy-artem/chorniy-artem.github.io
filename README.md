@@ -8,3 +8,5 @@
 [Урок 10](chorniy-artem.github.io/lesson_10/ "Дз урок 10") - Препроцессор LESS для CSS
 
 [Урок 11](chorniy-artem.github.io/lesson_11/ "Дз урок 11") - Сниппеты
+
+[Урок 12](chorniy-artem.github.io/lesson_12/ "Дз урок 12") - Хостинг от GitHub
