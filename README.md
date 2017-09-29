@@ -10,3 +10,5 @@
 [Урок 11](chorniy-artem.github.io/lesson_11/ "Дз урок 11") - Сниппеты
 
 [Урок 12](chorniy-artem.github.io/lesson_12/ "Дз урок 12") - Хостинг от GitHub
+
+[Урок 13](chorniy-artem.github.io/lesson_13/ "Дз урок 13") - Адаптивная верстка
