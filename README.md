@@ -1,4 +1,4 @@
 # Артем Черный
 Мои домашние задание
 
-[Урок 8](chorniy-artem.github.io/lesson_8/ "Дз урок 8")
+[Урок 8](chorniy-artem.github.io/lesson_8/ "Дз урок 8") - Ускорение верстки в разы
