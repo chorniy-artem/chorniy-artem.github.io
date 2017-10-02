@@ -12,3 +12,5 @@
 [Урок 12](chorniy-artem.github.io/lesson_12/ "Дз урок 12") - Хостинг от GitHub
 
 [Урок 13](chorniy-artem.github.io/lesson_13/ "Дз урок 13") - Адаптивная верстка
+
+[Практика. Часть 1](chorniy-artem.github.io/Практика/ ) - Подготовка файлов. Верстка шапки сайта
