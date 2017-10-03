@@ -16,3 +16,5 @@
 [Практика. Часть 1](chorniy-artem.github.io/Practice/ ) - Подготовка файлов. Верстка шапки сайта
 
 [Урок 14](chorniy-artem.github.io/lesson_14/ "Дз урок 14") - Подключение шрифтов
+
+[Практика. Часть 1](chorniy-artem.github.io/Practice part-2/ ) - Подключение шрифтов. Верстка первого экрана
