@@ -52,11 +52,13 @@ h2 {
  border-radius: 3px;
  background: rgb(64,199,129);
  box-shadow: 0 -3px rgb(53,167,110) inset;
- transition: 0.2s;
+ transition: 0.8s;
 }
 
 .button-one:hover {
-	background: yellow;
+	opacity: 0.6;
+	color: black;
+	border-radius: 6px;
 }
 .button-two {
 	display: inline-block;
@@ -68,9 +70,11 @@ h2 {
  border-color: #FDBE33 #000 #D77206;
  border-radius: 6px;
  background: linear-gradient(#F3AE0F, #E38916) #E38916;
- transition: 0.2s;
+ transition: 0.8s;
 }
 
 .button-two:hover {
-	background: red;
+	opacity: 0.6;
+	color: black;
+	border-radius: 3px;
 }
