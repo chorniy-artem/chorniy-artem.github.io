@@ -19,6 +19,8 @@
 
 [Практика. Часть 2](chorniy-artem.github.io/Practice part-2/ ) - Подключение шрифтов. Верстка первого экрана
 
-[Урок 15](chorniy-artem.github.io/lesson_14/ "Дз урок 15") - Псевдоклассы и псевдоэлементы
+[Урок 15](chorniy-artem.github.io/lesson_15/ "Дз урок 15") - Псевдоклассы и псевдоэлементы
 
 [Практика. Часть 3](chorniy-artem.github.io/Practice part-3/ ) - Эффекты при наведении и адаптив первого экрана
+
+[Урок 16](chorniy-artem.github.io/lesson_16/ "Дз урок 16") - Слайдер на сайте
