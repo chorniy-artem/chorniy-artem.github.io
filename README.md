@@ -24,3 +24,5 @@
 [Практика. Часть 3](chorniy-artem.github.io/Practice part-3/ ) - Эффекты при наведении и адаптив первого экрана
 
 [Урок 16](chorniy-artem.github.io/lesson_16/ "Дз урок 16") - Слайдер на сайте
+
+[Практика. Часть 4](chorniy-artem.github.io/Practice part-4/ ) - Верстка блока с преимуществами. Слайдер
