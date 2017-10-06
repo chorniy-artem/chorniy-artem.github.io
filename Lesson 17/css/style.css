@@ -1,0 +1,14 @@
+.modal-header {
+	background: #715050;
+}
+
+.modal-header span {
+	border-radius: 50%;
+	background: #f6faf6;
+}
+.modal-body {
+	display: block;
+	font-size: 20px;
+	height: 200px;
+	background: #d4f0f1;
+}
