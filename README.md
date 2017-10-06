@@ -26,3 +26,5 @@
 [Урок 16](chorniy-artem.github.io/lesson_16/ "Дз урок 16") - Слайдер на сайте
 
 [Практика. Часть 4](chorniy-artem.github.io/Practice part-4/ ) - Верстка блока с преимуществами. Слайдер
+
+[Урок 17](chorniy-artem.github.io/lesson_16/ "Дз урок 17") - Всплывающие окна
