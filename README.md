@@ -28,3 +28,5 @@
 [Практика. Часть 4](chorniy-artem.github.io/Practice part-4/ ) - Верстка блока с преимуществами. Слайдер
 
 [Урок 17](chorniy-artem.github.io/lesson_16/ "Дз урок 17") - Всплывающие окна
+
+[Практика. Часть 5](chorniy-artem.github.io/Practice part-5/ ) - Верстка всплывающих окон на сайте
