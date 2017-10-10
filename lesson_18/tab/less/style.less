@@ -1,0 +1,95 @@
+/* fonts seting*/
+@font-face {
+	font-family: 'Myriad Pro';
+	src: url('../fonts/MyriadPro-Regular.eot');
+	src: url('../fonts/MyriadPro-Regular.eot?#iefix') format('embedded-opentype'),
+		url('../fonts/MyriadPro-Regular.woff2') format('woff2'),
+		url('../fonts/MyriadPro-Regular.woff') format('woff'),
+		url('../fonts/MyriadPro-Regular.ttf') format('truetype'),
+		url('../fonts/MyriadPro-Regular.svg#MyriadPro-Regular') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+.reg() {
+	font-family: 'Myriad Pro', sans-serif;
+}
+
+/* Basic setting */
+
+body {
+	.reg();
+	background: url(../img/bg.png) no-repeat;
+}
+
+.main-form {
+	position: relative;
+	padding: 70px 80px 40px 45px;
+	width: 630px;
+	height: 408px;
+	background: #000;
+	border: 20px solid #03a5da;
+	border-radius: 10px;
+	.input {
+		margin-bottom: 20px;
+		width: 100%;
+		padding: 23px 0 20px 23px;
+		font-size: 24px;
+		background: #1f1e1e; 
+		border: none;
+		border-radius: 10px;
+		box-shadow: 3px 0 3px rgba(0,0,0,0.5) inset;
+		color: #fff;
+		outline: none;
+	}
+	.text {
+		margin-bottom: 38px;
+		padding-left: 15px;
+		font-size: 15px;
+		color: #c51f03;
+		}
+	.chek {
+		padding-left: 15px;
+		label {
+			display: inline-block;
+			font-size: 15px;
+			color: #6f6d6d;
+		}
+	}
+	.btn {
+		position: absolute;
+		right: -35px;
+		bottom: 15px;
+		width: 130px;
+		height: 40px;
+		border: none;
+		font-size: 24px;
+		color: #fff;
+		background-image: url(../img/bg-btn.png);
+		outline: none;
+	}
+}
+
+a {
+	color: #fff;
+}
+.nav-tabs>li.active>a, .nav-tabs>li.active>a:focus, .nav-tabs>li.active>a:hover {
+	background: #03a5da;
+	color: #fff;
+	border: none;
+}
+
+.nav-tabs>li>a {
+	border: none;
+	margin-right: -5px;
+	margin-left: 18px;
+}
+
+.nav>li>a {
+	padding: 0 25px;
+	font-size: 24px;
+}
+
+.nav-tabs {
+	border: none;
+}
