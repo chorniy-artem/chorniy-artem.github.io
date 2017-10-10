@@ -30,3 +30,5 @@
 [Урок 17](chorniy-artem.github.io/lesson_16/ "Дз урок 17") - Всплывающие окна
 
 [Практика. Часть 5](chorniy-artem.github.io/Practice part-5/ ) - Верстка всплывающих окон на сайте
+
+[Урок 18](chorniy-artem.github.io/lesson_16/ "Дз урок 18") - Табы и аккордеон на сайте
