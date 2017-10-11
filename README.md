@@ -36,3 +36,5 @@
 [Практика. Часть 6](chorniy-artem.github.io/Practice part-6/ ) - Верстка блока с ценами
 
 [Урок 19](chorniy-artem.github.io/lesson_19/ "Дз урок 19") - Анимация на CSS3
+
+[Практика. Часть 7](chorniy-artem.github.io/Practice_7/ ) - Верстка блока с отзывами
