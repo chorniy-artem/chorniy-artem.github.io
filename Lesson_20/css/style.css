@@ -1,0 +1,11 @@
+.section {
+	width: 990px;
+	height: 620px;
+	margin: 0 auto;
+	text-align: center;
+	color: #fff;
+}
+
+h1 {
+	padding-top: 25%;
+}
