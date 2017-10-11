@@ -38,3 +38,5 @@
 [Урок 19](chorniy-artem.github.io/lesson_19/ "Дз урок 19") - Анимация на CSS3
 
 [Практика. Часть 7](chorniy-artem.github.io/Practice_7/ ) - Верстка блока с отзывами
+
+[Урок 20](chorniy-artem.github.io/lesson_20/ "Дз урок 20") - Видео-фон на сайте
