@@ -27,10 +27,12 @@
 
 [Практика. Часть 4](chorniy-artem.github.io/Practice part-4/ ) - Верстка блока с преимуществами. Слайдер
 
-[Урок 17](chorniy-artem.github.io/lesson_16/ "Дз урок 17") - Всплывающие окна
+[Урок 17](chorniy-artem.github.io/lesson_17/ "Дз урок 17") - Всплывающие окна
 
 [Практика. Часть 5](chorniy-artem.github.io/Practice part-5/ ) - Верстка всплывающих окон на сайте
 
-[Урок 18](chorniy-artem.github.io/lesson_16/ "Дз урок 18") - Табы и аккордеон на сайте
+[Урок 18](chorniy-artem.github.io/lesson_18/ "Дз урок 18") - Табы и аккордеон на сайте
 
 [Практика. Часть 6](chorniy-artem.github.io/Practice part-6/ ) - Верстка блока с ценами
+
+[Урок 19](chorniy-artem.github.io/lesson_19/ "Дз урок 19") - Анимация на CSS3
