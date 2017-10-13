@@ -40,3 +40,5 @@
 [Практика. Часть 7](chorniy-artem.github.io/Practice_7/ ) - Верстка блока с отзывами
 
 [Урок 20](chorniy-artem.github.io/lesson_20/ "Дз урок 20") - Видео-фон на сайте
+
+[Практика. Часть 8](chorniy-artem.github.io/Practice_8/ ) - Доверстали блок с отзывами
