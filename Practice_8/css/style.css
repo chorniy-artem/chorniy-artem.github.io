@@ -478,6 +478,18 @@ section {
   .main-subtitle {
     font-size: 1.5rem;
   }
+  .feedback-form {
+    margin-top: 3rem;
+  }
+  .feedback-form h3 {
+    font-size: 1.8rem;
+  }
+  .feedback-form label {
+    font-size: 1rem;
+  }
+  .feedback-form-btn {
+    width: 20rem;
+  }
 }
 @media (max-width: 320px) {
   .feedback p {
