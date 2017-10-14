@@ -42,3 +42,5 @@
 [Урок 20](chorniy-artem.github.io/lesson_20/ "Дз урок 20") - Видео-фон на сайте
 
 [Практика. Часть 8](chorniy-artem.github.io/Practice_8/ ) - Доверстали блок с отзывами
+
+[Практика. Часть 9](chorniy-artem.github.io/Practice_9/ ) - Верстаем схему работы и все включено
