@@ -44,3 +44,5 @@
 [Практика. Часть 8](chorniy-artem.github.io/Practice_8/ ) - Доверстали блок с отзывами
 
 [Практика. Часть 9](chorniy-artem.github.io/Practice_9/ ) - Верстаем схему работы и все включено
+
+[Урок 22](chorniy-artem.github.io/lesson_22/ "Дз урок 22") - Гео-карты для сайта
