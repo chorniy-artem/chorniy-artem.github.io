@@ -186,7 +186,7 @@ section {
 }
 
 .header {
-	height: 7rem;
+	min-height: 7rem;
 }
 
 .wrap {
@@ -441,6 +441,26 @@ section {
 	max-width: 30rem;
 }
 
+/* Схема роботы*/
+.scheme {
+	background: url(../img/scheme-bg.png) bottom right -10rem no-repeat;
+	background-size: 65rem;
+	p {
+		.reg();
+		font-size: 1.6rem
+	}
+	&-block {
+		min-height: 30rem;
+		h3 {
+			font-size: 2rem;
+			.bold();
+		}
+	}
+}
+
+/* Все включено*/
+
+
 @media (max-width: 1199px) {
 	.feedback {
 		&-form {
@@ -507,6 +527,13 @@ section {
 		}
 		&-next-btn {
 			right: 0;
+		}
+	}
+	.scheme {
+		background: none;
+		text-align: center;
+		&-block {
+			min-height: 20rem;
 		}
 	}
 }

@@ -156,7 +156,7 @@ section {
   margin-top: 1.5rem;
 }
 .header {
-  height: 7rem;
+  min-height: 7rem;
 }
 .wrap {
   display: table;
@@ -405,6 +405,23 @@ section {
   left: 0;
   max-width: 30rem;
 }
+/* Схема роботы*/
+.scheme {
+  background: url(../img/scheme-bg.png) bottom right -10rem no-repeat;
+  background-size: 65rem;
+}
+.scheme p {
+  font-family: 'ProximaNova_reg', sans-serif;
+  font-size: 1.6rem;
+}
+.scheme-block {
+  min-height: 30rem;
+}
+.scheme-block h3 {
+  font-size: 2rem;
+  font-family: 'ProximaNova_bold', sans-serif;
+}
+/* Все включено*/
 @media (max-width: 1199px) {
   .feedback-form {
     padding: 3rem 5rem;
@@ -462,6 +479,13 @@ section {
   }
   .feedback-next-btn {
     right: 0;
+  }
+  .scheme {
+    background: none;
+    text-align: center;
+  }
+  .scheme-block {
+    min-height: 20rem;
   }
 }
 @media (max-width: 520px) {
