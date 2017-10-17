@@ -263,7 +263,7 @@ a.btn-cta {
 /* ======= Hero Section ======= */
 .hero-section {
   min-height: 560px;
-  /*background: #494d55; */
+  background: #494d55; 
   position: relative;
 }
 .hero-carousel .carousel-inner .item-1 {
