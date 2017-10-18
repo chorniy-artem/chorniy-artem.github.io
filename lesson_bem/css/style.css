@@ -1,0 +1,117 @@
+body {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 11px;
+}
+.header {
+  padding: 30px 50px;
+  color: #343e5c;
+}
+.header-nav {
+  margin: 0;
+  padding: 0;
+}
+.header-nav_light {
+  color: #b9bed1;
+  text-transform: uppercase;
+}
+.header-nav_light a:hover {
+  text-decoration: none;
+  color: #e3e8f0;
+}
+.header-nav li {
+  display: inline-block;
+  vertical-align: top;
+  margin-right: 20px;
+  font-size: 11px;
+}
+.header-nav li:nth-child(5) {
+  margin-right: 0;
+}
+.header-top {
+  padding-bottom: 40px;
+  background-color: #fff;
+  border-bottom: 1px solid #e3e8f0;
+}
+.header-top__cart {
+  display: inline-block;
+  vertical-align: middle;
+  text-transform: uppercase;
+}
+.header-top__namber {
+  display: inline-block;
+  vertical-align: middle;
+  text-align: center;
+  width: 24px;
+  height: 24px;
+  background-color: #e3e8f0;
+  border-radius: 50%;
+  padding-bottom: 10px;
+}
+.header-top__btn {
+  display: inline-block;
+  vertical-align: top;
+  text-transform: uppercase;
+  border: 3px solid #e3e8f0;
+  border-radius: 10px;
+}
+.header-top__btn_blue {
+  display: block;
+  padding: 10px 0;
+  max-width: 125px;
+  font-size: 11px;
+  border: none;
+  background-color: #2754eb;
+  color: #fff;
+}
+.header-bottom {
+  position: relative;
+  margin-top: 25px;
+}
+.header-bottom__link {
+  display: inline-block;
+  margin-right: 10px;
+  vertical-align: top;
+  color: #b9bed1;
+  text-transform: uppercase;
+}
+.header-bottom__form {
+  display: inline-block;
+  vertical-align: top;
+}
+.header-bottom__form::before {
+  content: '';
+  display: block;
+  position: absolute;
+  top: 1px;
+  left: 90px;
+  width: 13px;
+  height: 13px;
+  background: url(../img/icon/Search.svg) center no-repeat;
+  background-size: 100%;
+}
+.header-bottom__input {
+  border: none;
+  border: 1px solid #e3e8f0;
+  margin-top: -25px;
+  padding: 20px 0 20px 30px;
+}
+.main {
+  min-height: 500px;
+  background: #000000 url(../img/main-bg.jpg) center no-repeat;
+  background-size: cover;
+}
+.main-content {
+  margin-top: 100px;
+  color: #fff;
+}
+.main-content__header {
+  margin-bottom: 30px;
+  font-weight: 700;
+  font-size: 42px;
+}
+.main-content__text {
+  margin-bottom: 60px;
+  max-width: 430px;
+  font-size: 16px;
+  line-height: 1.5;
+}
